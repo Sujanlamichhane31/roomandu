@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "936272099642",
+    "firebase_url": "https://roomandu-346b4.firebaseio.com",
+    "project_id": "roomandu-346b4",
+    "storage_bucket": "roomandu-346b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936272099642:android:b1e4a0b4c1cdd0270af803",
+        "android_client_info": {
+          "package_name": "com.example.roomandu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936272099642-meb6suolignkdfq3pv4h2l3pdqj08vg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roomandu",
+            "certificate_hash": "000b862490b3bceef611ccf9fbc250be0c5f2226"
+          }
+        },
+        {
+          "client_id": "936272099642-the06uik2mqnhd32svfrdo6ondj1vv6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZEzock9jHiHsg1EMyKBqHK0kaRbtCLE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936272099642-the06uik2mqnhd32svfrdo6ondj1vv6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
